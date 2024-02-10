@@ -1,0 +1,70 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: MediumPurple;
+    border: 5px solid DarkViolet;
+    border-radius: 5px;
+}
+
+header a {
+    text-decoration: none;
+    color: DarkSlateBlue;
+    border: 2px solid MidnightBlue;
+    border-radius: 7.5px;
+    padding: 5px;
+    background-color: Lavender;
+}
+
+header b {
+    color: DarkSlateBlue;
+}
+
+nav a{
+    text-align: center;
+    text-decoration: none;
+    border: 2.5px solid Purple;
+    border-radius: 20px;
+    margin: 20px;
+    margin-top: 20px;
+    padding: 2.5px;
+    font-size: 20px;
+    color: DarkMagenta;
+    background-color: Plum;
+    text-align: center;
+}
+
+nav {
+    margin: 20px;
+}
+
+main h1{
+    text-align: center;
+    color: Violet;
+    background-color: Indigo;
+    border: 3px solid Purple;
+    border-radius: 3px;
+}
+
+.item {
+    background-color: cornflowerblue;
+    border: 5px solid darkblue;
+    padding: 5px;
+    border-radius: 15px;
+    margin: 15px;
+}
+
+.footerTxt1{
+    color: cornflowerblue;
+}
+
+.link1{
+    text-decoration: none;
+    border: 4px solid blue;
+    background-color: cyan;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+}
